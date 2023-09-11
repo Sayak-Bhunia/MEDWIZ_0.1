@@ -1,4 +1,4 @@
-# MEDWIZ - Your Medical AI Wizard 🌟🏥💬
+# MEDWIZ - Your Personal AI Doc 🌟🏥💬
 
 Medical consultation in Kolkata made magical with AI wizardry. 🧙‍♂️✨
 
