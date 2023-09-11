@@ -3,8 +3,10 @@
 Medical consultation in Kolkata made magical with AI wizardry. 🧙‍♂️✨
 
 ![Screenshot 2023-09-11 100143](https://github.com/Sayak-Bhunia/MEDWIZ_0.1/assets/110457746/3fde1d8d-e2d7-4b6a-af21-1a7de9270ee0)
+![Screenshot 2023-09-11 100721](https://github.com/Sayak-Bhunia/MEDWIZ_0.1/assets/110457746/2ac079b6-257d-48c2-9d58-8ade5f542244)
 
 ## About MEDWIZ ℹ️
+
 
 MEDWIZ is your trusted medical companion powered by cutting-edge AI technology. We have harnessed the expertise of experienced doctors in Kolkata across various domains to provide you with accurate and reliable medical advice and assistance. 🤖👩‍⚕️🔍
 
