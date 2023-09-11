@@ -2,7 +2,7 @@
 
 Medical consultation in Kolkata made magical with AI wizardry. 🧙‍♂️✨
 
-![MEDWIZ Logo](insert_logo_url_here)
+![Screenshot 2023-09-11 100143](https://github.com/Sayak-Bhunia/MEDWIZ_0.1/assets/110457746/3fde1d8d-e2d7-4b6a-af21-1a7de9270ee0)
 
 ## About MEDWIZ ℹ️
 
@@ -30,9 +30,7 @@ MEDWIZ is your trusted medical companion powered by cutting-edge AI technology. 
 
 ## Join the MEDWIZ Community 🌐
 
-![Join MEDWIZ](insert_signup_button_url_here)
-
-Feel free to contribute to our community by sharing your feedback and experiences. Together, we can make healthcare more accessible and efficient for everyone. 🤝🌍
+Feel free to contribute to our project. 🤝🌍
 
 ## Future Expansion 🚀
 
@@ -40,8 +38,6 @@ We are actively working to expand our database and services to other cities in I
 
 ## Contact Us 📞📧
 
-Have questions or feedback? Reach out to us at [contact@medwiz.ai](mailto:contact@medwiz.ai) or visit our website [www.medwiz.ai](https://www.medwiz.ai). 📩🌐
-
-**Follow Us:** [Facebook](insert_facebook_url_here) | [Twitter](insert_twitter_url_here) | [Instagram](insert_instagram_url_here) 📱👍
+Have questions or feedback? Reach out to us at [contact@medwiz.com](mailto:sbhunia2903@gmail.com) or visit our website [www.medwiz.com](https://sayak-bhunia.github.io/MEDWIZ_0.1/index.html). 📩🌐
 
 *Disclaimer: MEDWIZ is an AI-driven platform that assists in preliminary medical guidance. It is not a replacement for professional medical advice. Always consult a healthcare provider for accurate diagnosis and treatment.* ⚠️👨‍⚕️🚑
