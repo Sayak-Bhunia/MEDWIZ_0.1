@@ -40,6 +40,6 @@ We are actively working to expand our database and services to other cities in I
 
 ## Contact Us 📞📧
 
-Have questions or feedback? Reach out to us at [contact@medwiz.com](mailto:sbhunia2903@gmail.com) or visit our website [www.medwiz.com](medwizard.vercel.app). 📩🌐
+Have questions or feedback? Reach out to us at [contact@medwiz.com](mailto:sbhunia2903@gmail.com) or visit our website [www.medwiz.com](https://medwizard.vercel.app/index.html). 📩🌐
 
 *Disclaimer: MEDWIZ is an AI-driven platform that assists in preliminary medical guidance. It is not a replacement for professional medical advice. Always consult a healthcare provider for accurate diagnosis and treatment.* ⚠️👨‍⚕️🚑
