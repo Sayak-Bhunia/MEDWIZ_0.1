@@ -29,17 +29,17 @@ MEDWIZ is your trusted medical companion powered by cutting-edge AI technology. 
 - **Medicine Guidance**: Get recommendations for over-the-counter and prescription medicines tailored to your condition. 💊📋
 
 - **Doctor Discovery**: Easily find nearby doctors and their clinic locations for in-person consultations. 👩‍⚕️🗺️
-
+.
 ## Join the MEDWIZ Community 🌐
 
 Feel free to contribute to our project. 🤝🌍
 
-## Future Expansion 🚀
+## Future Expansion 🚀.
 
 We are actively working to expand our database and services to other cities in India. Stay tuned for updates as we strive to make healthcare accessible to all. 🌆🇮🇳
 
 ## Contact Us 📞📧
 
-Have questions or feedback? Reach out to us at [contact@medwiz.com](mailto:sbhunia2903@gmail.com) or visit our website [www.medwiz.com](https://sayak-bhunia.github.io/MEDWIZ_0.1/index.html). 📩🌐
+Have questions or feedback? Reach out to us at [contact@medwiz.com](mailto:sbhunia2903@gmail.com) or visit our website [www.medwiz.com](medwizard.vercel.app). 📩🌐
 
 *Disclaimer: MEDWIZ is an AI-driven platform that assists in preliminary medical guidance. It is not a replacement for professional medical advice. Always consult a healthcare provider for accurate diagnosis and treatment.* ⚠️👨‍⚕️🚑
